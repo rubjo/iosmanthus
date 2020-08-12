@@ -6,4 +6,4 @@ I'm Iosmanthus Teng. I'm a database engineer working at PingCAP and having great
 - 📫 How to reach me: myosmanthustree@gmail.com
 - ⚡ Fun fact: I'm a girl.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iosmanthus&count_private=true&show_icons=true&theme=Gradient)](https://github.com/iosmanthus)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iosmanthus&count_private=true&show_icons=true&theme=default)](https://github.com/iosmanthus)
